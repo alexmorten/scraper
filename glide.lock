@@ -1,0 +1,16 @@
+hash: 3506186008294e74f857b2802946446c14b6f29748f49ae95c697560d31b82d4
+updated: 2018-03-06T19:48:00.765546+01:00
+imports:
+- name: github.com/nlopes/slack
+  version: 8ab4d0b364ef1e9af5d102531da20d5ec902b6c4
+- name: github.com/subosito/gotenv
+  version: 009e1f9581dc712aba5682a279dee155ca3eeded
+- name: github.com/yhat/scrape
+  version: 24b7890b0945459dbf91743e4d2ac5d75a51fee2
+- name: golang.org/x/net
+  version: a8b9294777976932365dabb6640cf1468d95c70f
+  subpackages:
+  - html
+  - html/atom
+  - websocket
+testImports: []
